@@ -84,7 +84,7 @@ public class QrCodeHandler {
      * Get qrcode file
      *
      * @param filePath
-     * @return
+     * @return File
      */
     private static File getFile(String filePath) {
         File file = new File(filePath);
@@ -122,7 +122,7 @@ public class QrCodeHandler {
      * Encode text to BufferedImage
      *
      * @param codeText
-     * @return
+     * @return BufferedImage
      */
     private static BufferedImage encodeQrCode(String codeText, QrConfig config) {
         MatrixToImageConfig imageConfig = new MatrixToImageConfig(config.getColorFront(), config.getColorBackground());
