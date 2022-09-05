@@ -22,7 +22,7 @@ abasecode-base-utils 是常用工具合集。
 <dependency>
     <groupId>com.abasecode.opencode</groupId>
     <artifactId>abasecode-base-utils</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.3</version>
 </dependency>
 ```
 ## Step 2： 完成

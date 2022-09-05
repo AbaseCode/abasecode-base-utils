@@ -22,7 +22,7 @@ abasecode-base-code is a standard tool library that contains commonly used utils
 <dependency>
     <groupId>com.abasecode.opencode</groupId>
     <artifactId>abasecode-base-utils</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.3</version>
 </dependency>
 ```
 
