@@ -2,9 +2,9 @@ package com.abasecode.opencode.base.util;
 
 import com.abasecode.opencode.base.annotation.NameInMap;
 import com.alibaba.fastjson2.JSON;
+import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.cglib.beans.BeanMap;
 
-import javax.servlet.http.HttpServletRequest;
 import java.lang.reflect.Field;
 import java.math.BigDecimal;
 import java.util.*;
